@@ -1,0 +1,3 @@
+include ':pixabayLib'
+include ':app'
+rootProject.name = "PixabayProject"
